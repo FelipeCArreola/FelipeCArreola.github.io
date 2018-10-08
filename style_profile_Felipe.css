@@ -71,7 +71,7 @@ nav, p {
 .box-transp-01 {
     background: rgba(0, 0, 0, 0.65);
     border-radius: 25px;
-    width: 700px;
+    max-width: 700px;
     margin: 0 auto;
 }
 
@@ -105,6 +105,8 @@ nav, p {
     column-fill: balance;
     column-gap: 20px;
     column-rule: none;
+    display: flex;   
+    flex-wrap: wrap;
 }
 
 .clear {
