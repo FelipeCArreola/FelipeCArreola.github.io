@@ -49,7 +49,9 @@ html,
 }
 
 .body-portfolio {
-  background-image: url('https://i.imgur.com/jy6k1X3.png?1');
+  background-image: url('https://i.imgur.com/qNpEZzX.jpg?1');
+  height: 100%;
+  width: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
