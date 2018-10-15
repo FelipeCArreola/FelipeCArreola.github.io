@@ -91,6 +91,14 @@ nav, p {
     overflow: auto;
 }
 
+.box-transp-f {
+  background: rgba(0, 0, 0, 0.41);
+  border-radius: 35px;
+  padding: 0px 20px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
 .profile-pic {
     margin:0 auto;
     border-radius: 50%;
