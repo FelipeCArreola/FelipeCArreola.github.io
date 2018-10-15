@@ -15,7 +15,7 @@ a:hover {
  */
 
 html,
-.body-index,.body-intro,.body-hobbies {
+.body-index,.body-intro,.body-hobbies,.body-portfolio {
   height: 100%;
   background-color: #333;
   text-align:center;
