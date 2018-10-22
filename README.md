@@ -1,4 +1,4 @@
-Site name:
+Site URL:
  FelipeCArreola.github.io
 
 Welcome to my portfolio,
