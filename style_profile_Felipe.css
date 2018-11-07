@@ -151,7 +151,9 @@ nav, p {
 .zagster-fig {
   display: flex;
   flex-flow: column;
-  margin: 0;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
   padding: 5px;
   border-radius: 50px;
 }
